@@ -1,0 +1,15 @@
+{
+  "motos" : [ {
+      "id": 1,
+      "brand" : "Kawasaki",
+      "model" : "Ninja 600",
+      "year" : 2007
+      }, 
+      {
+        "id": 2,
+        "brand" : "Honda",
+        "model" : "cbr600f",
+        "year" : 2004
+      }
+    ]
+}
